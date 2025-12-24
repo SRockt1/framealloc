@@ -105,7 +105,7 @@ for frame in 0..1000000 {
 *Start here if:* You're extending framealloc or need maximum performance.
 
 ### Reference
-
+Start here if:* You're extending framealloc or need maximum performance
 | Resource | Description |
 |----------|-------------|
 | [API Documentation](https://docs.rs/framealloc) | Complete API reference |
